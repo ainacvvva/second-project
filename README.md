@@ -5,6 +5,7 @@
   🠆 Modal window<br> 
   🠆 Slider (carousel)<br> 
   🠆 Smooth SCSS animations<br> 
+  
 ## - 〝Technologies: HTML, CSS (SCSS), JavaScript 
 - 〝Design Design by https://www.behance.net/DLSdesign888 <br> 
   〝Code by Ainacvvaa
