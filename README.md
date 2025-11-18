@@ -4,7 +4,7 @@
   🠆 Burger menu<br>
   🠆 Modal window<br> 
   🠆 Slider (carousel)<br> 
-  🠆 Smooth CSS (SCSS) animations<br> 
+  🠆 Smooth CSS(SCSS) animations<br> 
 ## - 〝Technologies: HTML, CSS (SCSS), JavaScript 
 - 〝Design Design by https://www.behance.net/DLSdesign888 <br> 
   〝Code by Ainacvvaa
